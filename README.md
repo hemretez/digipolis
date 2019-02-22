@@ -1,6 +1,8 @@
 # Intellijel
 Intellijel Metropolis sequencer, written for Bela. 
 
+Inspiration: https://www.youtube.com/watch?v=uV9-XA5MPwY
+
 Number of stages, gate width and tempo is controlled by three different potentiometers connected do digital pins (0,1,2) of the Bela board.
 
 The sequencer can be started and stopped by a push button.
